@@ -1,0 +1,6 @@
+.vs
+Treeconstruct/bin/Debug/
+#Treeconstruct/bin/Debug/*.config
+#Treeconstruct/bin/Debug/*.pdb
+Treeconstruct/obj/Debug/
+#Treeconstruct/obj/Debug/TempPE/*.*
